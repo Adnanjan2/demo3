@@ -1,0 +1,58 @@
+#he{
+    color: rgb(205, 216, 233);
+    padding-top: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 2px 6px  red;
+}
+.head{
+  background-image: url(backgroud.webp);
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+ul{
+    display: inline-block;
+    float: right;
+
+}
+a{
+    color: wheat;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    font-size: large;
+    background-color: skyblue;
+    border-radius: 4px;
+}
+li{
+    display: inline;
+    padding: 20px;
+    margin-right: 10px;
+}
+
+.text{
+    color: white;
+    position: absolute;
+    margin-top: 70px;
+    padding-left: 20px;
+}
+p{
+    width: 400px;
+}
+button{
+    border: none;
+    height: 20px;
+}
+
+.green{
+    background-color: green;
+    border: none;
+    height: 20px;
+}
+
+
+
